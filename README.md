@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-
 ![](https://hit.yhype.me/github/profile?user_id=101112588)
-
 
 🔭 I’m currently working on: Expanding my full-stack development skills through personal projects!
 
