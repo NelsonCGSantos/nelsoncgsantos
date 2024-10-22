@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=nelsoncgsantos&style=for-the-badge&color=red)
 
 🔭 I’m currently working on: Expanding my full-stack development skills through personal projects! Right now, I'm working on a chrome extension called TLDR that summarizes web content leveraging OpenAI APi
 
@@ -13,4 +14,3 @@
 
 📫 How to reach me: nelsoncgsantos@gmail.com or via LinkedIn at www.linkedin.com/in/nelsoncgsantos.
 
-![](https://hit.yhype.me/github/profile?user_id=101112588)
