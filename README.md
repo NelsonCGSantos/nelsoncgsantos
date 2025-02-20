@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=nelsoncgsantos&style=for-the-badge&color=red)
 
-🔭 I’m currently working on: Expanding my full-stack development skills through personal projects! Right now, I'm working on a chrome extension called TLDR that summarizes web content leveraging OpenAI APi
-
 🌱 I’m currently learning: Advanced backend technologies, network security concepts, and improving my project management skills.
 
 👯 I’m looking to collaborate on: Web development projects where I can leverage my skills in JavaScript, Python, and Ruby, or contribute to esports or tech communities.
