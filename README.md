@@ -12,4 +12,4 @@
 
 📫 How to reach me: nelsoncgsantos@gmail.com or via LinkedIn at www.linkedin.com/in/nelsoncgsantos.
 
-🛜 My website: www.nelsonsantos.netlify.app
+🛜 My website: [htpps://nelsonsantos.netlify.app](https://nelsonsantos.netlify.app/)
