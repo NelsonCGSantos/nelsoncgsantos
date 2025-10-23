@@ -1,12 +1,6 @@
-## Hi there 👋
+## Hi there 
 
 ![](https://komarev.com/ghpvc/?username=nelsoncgsantos&style=for-the-badge&color=red)
-
-🌱 I’m currently learning: Advanced backend technologies, network security concepts, and improving my project management skills.
-
-👯 I’m looking to collaborate on: Web development projects where I can leverage my skills in JavaScript, Python, and Ruby, or contribute to esports or tech communities.
-
-🤔 I’m looking for help with: Exploring more about scaling applications and diving deeper into cloud services.
 
 💬 Ask me about: Full-stack web development, managing esports teams, and my journey from operations management to coding.
 
